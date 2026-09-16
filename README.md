@@ -229,6 +229,6 @@ dotnet run --project src/ProjetoCanil -- polimorfismo
 José Maurício
 Desenvolvedor Java em formação
 
-🔗 [GitHub](https://github.com/jmauriciordelima/jornadaFullStackComJava_e_LevelUp/tree/main/src/Bpoo/projeto_canil)
+🔗 [GitHub](https://github.com/jmauriciordelima/canil-cli_convertido_de_java_para_c--dotnet)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jmauriciorlima/)

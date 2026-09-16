@@ -1,0 +1,14 @@
+# .NET build artifacts
+bin/
+obj/
+out/
+*.user
+*.suo
+
+# Arquivos de dados gerados em tempo de execução
+canil.txt
+
+# IDE
+.vs/
+.vscode/
+.idea/
